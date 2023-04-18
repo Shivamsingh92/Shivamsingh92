@@ -2,7 +2,7 @@
 <h3 align="center">Data is today's fuel. The sheer power of data drove me to initiate my journey into the mysterious world of Data science.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 
-- 👨‍💻 All of my projects are available at  [Data Science Portfolio](https://github.com/shaileshsharma23/Portfolio)
+- 👨‍💻 All of my projects are available at  [Data Science Portfolio](https://github.com/shivamsingh92/Portfolio)
 
 - 📫 How to reach me *shivam909pa@gmail.com*
 
